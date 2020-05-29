@@ -12,7 +12,7 @@ public:
 	void receive(int degats);
 	void punch(Personnage &target) const;
 
-private:
+protected:
 	int m_live;
 	std::string m_name;
 
