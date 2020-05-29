@@ -10,6 +10,7 @@ class Warrior: public Personnage // ----import public method and attribut of Per
 public:
 	void hitWarrior() const;
 	// ---Method which conern only Warrior
+	void selfPresent() const;
 
 };
 

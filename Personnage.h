@@ -12,6 +12,8 @@ public:
 	void receive(int degats);
 	void punch(Personnage &target) const;
 
+	void selfPresent() const;
+
 protected:
 	int m_live;
 	std::string m_name;
