@@ -12,7 +12,7 @@ public:
 	void fireMagic() const;
 	void iceMagic() const;
 
-private:
+protected:
 	int m_mana;
 };
 

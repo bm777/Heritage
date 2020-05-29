@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1590734719 source:/home/bm7/github/Heritage/Magician.cpp
+1590745993 source:/home/bm7/github/Heritage/Magician.cpp
 	"Magician.h"
+	"Personnage.h"
 
-1590738397 /home/bm7/github/Heritage/Magician.h
+1590740782 /home/bm7/github/Heritage/Magician.h
 	<iostream>
 	<string>
 	"Personnage.h"
@@ -11,18 +12,20 @@
 	<iostream>
 	<string>
 
-1590739904 source:/home/bm7/github/Heritage/main.cpp
+1590745377 source:/home/bm7/github/Heritage/main.cpp
 	<iostream>
 	"Personnage.h"
 	"Warrior.h"
 	"Magician.h"
 
-1590734106 /home/bm7/github/Heritage/Warrior.h
+1590746233 /home/bm7/github/Heritage/Warrior.h
 	<iostream>
 	<string>
 	"Personnage.h"
 
-1590733808 source:/home/bm7/github/Heritage/Warrior.cpp
+1590745706 source:/home/bm7/github/Heritage/Warrior.cpp
+	"Warrior.h"
+	<iostream>
 
 1590739822 source:/home/bm7/github/Heritage/Personnage.cpp
 	"Personnage.h"

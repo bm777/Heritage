@@ -8,8 +8,10 @@ using namespace std;
 int main()
 {
     cout << "----Main program------" << endl;
-    Personnage peter("Peter");
-    peter.selfPresent();
+
+
+    Warrior drew("Drewer");
+    drew.selfPresent();
 
     return 0;
 }
